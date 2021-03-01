@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Welcome to Jekyll!
-meta_description: A description may also be set in a post. You can find more information about it in pages/about.md.
-author: dan_urbanowicz
-date: '2018-07-03 12:00:00'
+title: Welcome to our reviews!
+meta_description: This is the meta description, used for search purposes.
+author: john_doe
+date: 2021-03-01 13:49:43
+intro_paragraph: "![](/assets/img/uploads/smiling-beluga-whale-pq3aavl.jpg)"
 categories: misc
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
